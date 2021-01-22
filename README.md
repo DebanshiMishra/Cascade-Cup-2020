@@ -1,5 +1,5 @@
 # Cascade-Cup-2020
-Data Science competition conducted by IIT Guwahati. 
+Data Science competition conducted by IIT Guwahati. My team was Team AMEL.
 
 # Round 1:
 ## Problem Statement
